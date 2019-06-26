@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/78469b5fb6c06a1a2e4512462ad944cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/f918b8801753b8d29801eed23b33ab7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/de3237da84d70fbf9fa5c0821b68b9f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/adbec5c347006dceed6fbfe1f93dc609/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/dc3598961dadb10412f4e59a52d6abc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/11db893beeaf704132589a899c81cde7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/2c911e311e0d5f7f9b895aaa35bdd396/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/aa5eae5b748737d2502cb17a898219fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/cd32fa930503e2956a510dec0f50b4f5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/d02150bac0bed984cab2d63496d99a6e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/6d23ddda506e3f9b80978a66cbe44af5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/78469b5fb6c06a1a2e4512462ad944cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/78469b5fb6c06a1a2e4512462ad944cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/f918b8801753b8d29801eed23b33ab7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/f918b8801753b8d29801eed23b33ab7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/de3237da84d70fbf9fa5c0821b68b9f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/de3237da84d70fbf9fa5c0821b68b9f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/adbec5c347006dceed6fbfe1f93dc609/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/adbec5c347006dceed6fbfe1f93dc609/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/dc3598961dadb10412f4e59a52d6abc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/dc3598961dadb10412f4e59a52d6abc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/11db893beeaf704132589a899c81cde7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/11db893beeaf704132589a899c81cde7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/2c911e311e0d5f7f9b895aaa35bdd396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/2c911e311e0d5f7f9b895aaa35bdd396/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/aa5eae5b748737d2502cb17a898219fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/aa5eae5b748737d2502cb17a898219fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/cd32fa930503e2956a510dec0f50b4f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/cd32fa930503e2956a510dec0f50b4f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/d02150bac0bed984cab2d63496d99a6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/d02150bac0bed984cab2d63496d99a6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/6d23ddda506e3f9b80978a66cbe44af5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kelridgemitchelle/.gradle/caches/transforms-2/files-2.1/6d23ddda506e3f9b80978a66cbe44af5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kelridgemitchelle/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/src/main/AndroidManifest.xml
